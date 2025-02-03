@@ -8,3 +8,8 @@
 - Enchiladas. Una de las comidas más populares de la cocina mexicana, con una variedad de ingredientes y sabores deliciosos.
 - Quesadillas. Una de las comidas más populares de la cocina mexicana, con una variedad de ingredientes y sabores deliciosos.
 - Chilaquiles. Una de las comidas más populares de la cocina mexicana, con una variedad de ingredientes y sabores deliciosos.
+
+## Bebidas Recomendadas
+- Agua de limón.
+- Tequila.
+- Soda de limón.
