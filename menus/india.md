@@ -12,3 +12,8 @@ La cocina india está caracterizada por la diversidad de alimentos que presenta 
 - Pollo tandoori. ...
 - Dhal o dal. ...
 - Aloo Dum.
+
+## Bebidas Recomendadas
+- Chai tea.
+- Misal.
+- Lassi.
