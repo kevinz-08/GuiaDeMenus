@@ -20,3 +20,8 @@ La cocina francesa está caracterizada por la variedad de platos que presenta de
 - Cointreau.
 - Coñac.
 - Crème de cassis.
+
+## Consejos
+- Empieza con una cocina básica, como la cocina de pan.
+- Si no tienes tiempo para cocinar, puedes buscar en la tienda una receta de cocina rápida.
+- En Francia, la mantequilla se considera un producto básico esencial. Incluso se dice que los tres secretos de la cocina francesa son «¡mantequilla, mantequilla y más mantequilla!».
