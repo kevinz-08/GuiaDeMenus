@@ -12,3 +12,11 @@ La cocina francesa está caracterizada por la variedad de platos que presenta de
 - FOIE GRAS. ...
 - COQ AU VIN (GALLO AL VINO) ...
 - CREPES.
+
+## Bebidas Recomendadas
+- Calvados (aguardiente)
+- Chambord Liqueur Royale de France.
+- Chartreuse (licor)
+- Cointreau.
+- Coñac.
+- Crème de cassis.
