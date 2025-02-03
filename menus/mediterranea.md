@@ -18,3 +18,9 @@ La gastronomía mediterránea es una de las gastronomías más populares del mun
 - Sangría española. ...
 - Horchata. ...
 - Agua de Valencia.
+
+## Consejos
+- Comidas a base de vegetales, con sólo pequeñas cantidades de carne de res y pollo.
+- Más porciones de granos enteros, frutas y verduras frescas, nueces y legumbres.
+- Alimentos que en forma natural contengan cantidades altas de fibra.
+- Mucho pescado y otros mariscos en lugar.
