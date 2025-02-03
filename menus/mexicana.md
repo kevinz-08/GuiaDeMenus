@@ -13,3 +13,9 @@
 - Agua de limón.
 - Tequila.
 - Soda de limón.
+
+## Consejos
+- La cocina mexicana es una de las más ricas en ingredientes y sabores, con una variedad de platos y bebidas.
+- El maíz es una de las principales ingredientes de la cocina mexicana, con una variedad de platos y bebidas.
+- El chile es una de las principales ingredientes de la cocina mexicana, con una variedad de platos y bebidas.
+- El frijol es una de las principales ingredientes de la cocina mexicana, con una variedad de platos y bebidas.
