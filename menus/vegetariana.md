@@ -17,3 +17,6 @@ La alimentación vegetariana es aquella que excluye el consumo intencionado de c
 - Refrescos específicamente veganos. ...
 - Vinos libres de proteína animal. ...
 - Zumos, batidos y smoothies: por qué mejor caseros.
+
+## Consejos
+Elija alimentos fortificados, como los cereales, panes, leche de soya o de almendra y jugos de fruta para obtener una gran variedad de nutrientes. Reduzca los alimentos que sean ricos en grasa, azúcar y sal (sodio). Incluya una fuente de proteínas en todas sus comidas.
