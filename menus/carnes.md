@@ -13,3 +13,7 @@ La carne es un alimento muy nutritivo, se caracteriza por ser excelente fuente d
 - Agua con limon.
 - Agua con aceite de oliva.
 - Agua con aceite de coco.
+
+## Consejos
+- Usar una fuente de agua fresca para obtener los beneficios de la vitamina D.
+- Evitar la soja y el aceite de oliva, ya que son ricos en grasas.  
