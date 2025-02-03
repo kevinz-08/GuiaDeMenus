@@ -12,3 +12,8 @@ La cocina postres es una de las más antiguas y tradicionales de la gastronomía
 - Varios.
 - Para el desayuno y merienda.
 - Dulces y postres por ocasión.
+
+## Bebidas Recomendadas
+- Agua de hierba.
+- Agua de limón.
+- Agua de coco.
